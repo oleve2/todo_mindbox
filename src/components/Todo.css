@@ -1,0 +1,39 @@
+
+.todo_input {
+  height: 40px;
+  width: 100%;
+  border: 0;
+  padding: 10px;
+}
+
+.todolist_div {
+  padding: 0;
+  list-style-type: none;
+  height: 400px;
+  overflow-y: scroll;
+  margin-top: 10px;  
+}
+
+.todo_div {
+  /*width: 600px;*/
+  min-height: 400px;
+  padding: 10px;
+  background-color: white;
+}
+
+
+.filter_active {
+  border: 1px solid black;
+}
+
+.todo_controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter_item {
+  margin: 0 10px;
+  padding: 5px;
+}
+

@@ -1,0 +1,20 @@
+
+.todoElem_div {
+  display: flex;
+  align-items: center;
+  margin: 10px 10px;
+}
+
+.todoElem_data {
+  margin-left: 20px;
+  word-wrap: break-word;
+}
+
+.todoElem_img {
+  height: 60px;
+  width: 60px;
+}
+
+.text_crossed {
+  text-decoration: line-through;
+}
